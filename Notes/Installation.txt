@@ -1,0 +1,11 @@
+1.open view advanced system settings
+2.set path C:\Anaconda_Python\Scripts
+3.create flash folder in desktop
+4.cd to flash folder
+5.run cmd pip install flask
+6.run cmd pip install Flask-MySQLdb or run cmd pip install mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
+7.create folders static and template
+
+ctrl+alt+i
+
+
