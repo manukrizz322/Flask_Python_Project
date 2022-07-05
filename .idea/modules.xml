@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Fask_Phython.iml" filepath="$PROJECT_DIR$/.idea/Fask_Phython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Tkinter_SQlite/.idea/Python_Tkinter_SQlite.iml" filepath="$PROJECT_DIR$/../Python_Tkinter_SQlite/.idea/Python_Tkinter_SQlite.iml" />
     </modules>
   </component>
 </project>
